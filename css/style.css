@@ -55,16 +55,16 @@ h4{
   left: 35%;
   font-size: 3em;
   color: black;
-  font: "Arial";
+  font: Arial;
 }
 
 .favorites{
   position: absolute;
-  top: 85px;
-  left: 75%;
-  font-size: 2em;
+  top: 80px;
+  left: 71%;
+  font-size: 1.9em;
   color: #619CD8;
-  line-height: 110%;
+  line-height: 105%;
 }
 
 hr{
@@ -80,7 +80,7 @@ hr.side{
 .bus-stop {
   text-align:center;
   margin: 30px;
-  font-size: 3em;
+  font-size: 3.2em;
   line-height: 130%;
   font-family:trebuchet, helvetica;
 }
@@ -88,7 +88,7 @@ hr.side{
 table.table1{
   color:#6685ff;
   font-family: tahoma;
-  font-size: 2.2em;
+  font-size: 2.7em;
   table-layout: auto;
 }
 
@@ -124,7 +124,9 @@ table tr td:nth-child(2){
     }
 
 table tr td:nth-child(3){
-      width: 35%;
+      width: 40%;
+      text-align: right;
+      padding-right: 20px;
     }
 
 .destination{
@@ -133,6 +135,6 @@ table tr td:nth-child(3){
   font-weight: lighter;
   padding-top: 30px;
   padding-bottom: 5px;
-  padding-left: 40px;
+  padding-left: 70px;
   color: #ff8833;
 }
