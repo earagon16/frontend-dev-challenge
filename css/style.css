@@ -131,10 +131,46 @@ table tr td:nth-child(3){
 
 .destination{
   font-family: sans-serif;
-  font-size: 2em;
+  font-size: 2.5em;
   font-weight: lighter;
   padding-top: 30px;
   padding-bottom: 5px;
   padding-left: 70px;
   color: #ff8833;
+}
+
+.next{
+  font-size: .75em;
+  color: gray;
+}
+
+.delayed{
+  color: #DC143C;
+  font-size: 1.1em;
+  font-family: "arial";
+  font-weight: bold;
+}
+
+.status{
+  font-size: 1em;
+  font-family: "arial";
+  color: #7CFC00
+;
+}
+
+.time{
+  font-size: 1.3em;
+}
+
+.linedest{
+  font-size: 1.3em;
+}
+
+.out-service{
+  color: gray;
+}
+
+.reroute{
+  color:gray;
+  font-size: 2em;
 }
